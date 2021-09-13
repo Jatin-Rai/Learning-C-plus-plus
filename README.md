@@ -1,2 +1,2 @@
 # Learning-C++
-This repository contains some of the data structures and algorithm using C++ language.
+This repository consists of some of the basics of data structures and algorithms using C++
